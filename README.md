@@ -1,11 +1,5 @@
 # University platform front-end
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/asmaes-projects-79bc55e6/v0-university-platform-front-end)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/kIbpQNUqG3I)
-
-## Overview
 
 Plateforme de gestion universitaire développée avec Next.js 16, TypeScript, et Tailwind CSS.
 
