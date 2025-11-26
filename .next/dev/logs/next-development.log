@@ -1,0 +1,41 @@
+[00:00:16.966] Server  LOG      ✓ Ready in 13.5s
+[00:00:20.369] Server  LOG      ○ Compiling / ...
+[00:00:51.632] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:41.760] Server  LOG      ○ Compiling /login/student ...
+[00:01:59.530] Browser LOG     [v0] Using mock authentication
+[00:02:02.441] Server  LOG      ○ Compiling /dashboard/student ...
+[00:02:15.297] Server  LOG      ○ Compiling /login/teacher ...
+[00:02:28.837] Browser LOG     [v0] Using mock authentication
+[00:02:45.628] Server  LOG      ○ Compiling /_not-found/page ...
+[00:03:06.605] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:33.283] Browser LOG     [v0] Using mock authentication
+[00:03:51.983] Server  LOG      ○ Compiling /courses ...
+[00:04:11.972] Server  LOG      ○ Compiling /api/courses ...
+[00:04:15.476] Server  LOG     [v0] GET /api/teachers - Using mock: true
+[00:04:16.207] Server  LOG     [v0] GET /api/courses - Using mock: true
+[00:04:16.656] Server  LOG     [v0] GET /api/teachers - Using mock: true
+[00:04:16.866] Server  LOG     [v0] GET /api/courses - Using mock: true
+[00:04:43.673] Server  LOG      ○ Compiling /enrollments ...
+[00:04:53.706] Server  LOG     [v0] GET /api/courses - Using mock: true
+[00:04:54.073] Server  LOG     [v0] GET /api/courses - Using mock: true
+[00:04:56.661] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:04:56.939] Server  LOG      ○ Compiling /api/students ...
+[00:04:57.350] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:05:02.362] Server  LOG     [v0] GET /api/enrollments - Using mock: true
+[00:05:02.477] Server  LOG     [v0] GET /api/enrollments - Using mock: true
+[00:05:27.168] Server  LOG     [v0] POST /api/enrollments - Using mock: true
+[00:05:27.599] Server  LOG     [v0] GET /api/enrollments - Using mock: true
+[00:05:27.844] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:05:28.119] Server  LOG     [v0] GET /api/courses - Using mock: true
+[00:05:42.279] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:05:42.840] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:05:50.223] Server  LOG      ○ Compiling /notifications ...
+[00:06:22.903] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:06:23.206] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:06:27.184] Server  LOG      ○ Compiling /students ...
+[00:06:38.717] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:06:39.503] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:07:03.755] Server  LOG     [v0] PUT /api/students/:id - Using mock: true
+[00:07:03.885] Server  LOG     [v0] GET /api/students - Using mock: true
+[00:07:18.437] Server  LOG     [v0] DELETE /api/students/:id - Using mock: true
+[00:07:18.643] Server  LOG     [v0] GET /api/students - Using mock: true

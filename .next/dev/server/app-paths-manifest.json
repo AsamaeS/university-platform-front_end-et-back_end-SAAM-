@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/academic-tracking/page": "app/academic-tracking/page.js",
+  "/api/courses/route": "app/api/courses/route.js",
+  "/api/enrollments/route": "app/api/enrollments/route.js",
+  "/api/students/[id]/route": "app/api/students/[id]/route.js",
+  "/api/students/route": "app/api/students/route.js",
+  "/api/teachers/route": "app/api/teachers/route.js",
+  "/courses/page": "app/courses/page.js",
+  "/dashboard/student/page": "app/dashboard/student/page.js",
+  "/dashboard/teacher/page": "app/dashboard/teacher/page.js",
+  "/enrollments/page": "app/enrollments/page.js",
+  "/login/student/page": "app/login/student/page.js",
+  "/login/teacher/page": "app/login/teacher/page.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/page": "app/page.js",
+  "/students/page": "app/students/page.js"
+}
